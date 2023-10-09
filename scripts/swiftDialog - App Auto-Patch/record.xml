@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>swiftDialog - App Auto-Patch</name>
+  <category>No category assigned</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Script Log Location [ /var/log/com.company.log ] (i.e., Your organization's default location for client-side logs)</parameter4>
+    <parameter5>Toggles swiftDialog to use an overlay icon [ true (default) | false ]</parameter5>
+    <parameter6>Interactive Mode [ true (default) | false ]</parameter6>
+    <parameter7>A space-separated list of Installomator labels to ignore (i.e., "microsoftonedrive-rollingout zoomgov googlechromeenterprise nudge")</parameter7>
+    <parameter8>A space-separated list of required Installomator labels (i.e., "microsoftteams")</parameter8>
+    <parameter9>Outdated OS Action [ /System/Library/CoreServices/Software Update.app (default) | jamfselfservice://content?entity=policy&amp;id=117&amp;action=view ] (i.e., Jamf Pro Self Service policy ID for operating system upgrades)</parameter9>
+  </parameters>
+  <os_requirements/>
+</script>

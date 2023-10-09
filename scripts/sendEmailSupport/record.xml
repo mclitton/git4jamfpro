@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>sendEmailSupport</name>
+  <category>No category assigned</category>
+  <info/>
+  <notes>Could not get computer information to come into email from API
+Could not get the default email client to open, always wanted to open Apple Mail
+Not worth moving forward, but leave it here for code reference.</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Base64 encoded API username/password</parameter4>
+    <parameter5>Email 'To' field (comma separated list of email addresses)</parameter5>
+    <parameter6>Email 'Subject' field</parameter6>
+  </parameters>
+  <os_requirements/>
+</script>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>super v4-beta3</name>
+  <category>Testing</category>
+  <info/>
+  <notes>Using MDM
+--auth-jamf-client=ClientID
+--auth-jamf-secret=ClientSecret
+
+{"client_name":"superAPI","client_id":"0e185085-7eae-410e-9e83-17bbd93c9fd5","client_secret":"CCNP3y6Xd9N-ahCimQgu70BF9Y4PikBjHwSjTM9lrnRNxzc95n9Vaq5V8y-SJjQ9","grant_type":"client_credentials"}</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

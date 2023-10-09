@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_extension_attribute>
+  <name>Acronis - Next backup</name>
+  <enabled>true</enabled>
+  <description>Managed by the Acronis integration. Used to store the date of the next scheduled backup.</description>
+  <data_type>Date</data_type>
+  <input_type>
+    <type>Text Field</type>
+  </input_type>
+  <inventory_display>Extension Attributes</inventory_display>
+</computer_extension_attribute>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>swiftDialog - Display Message</name>
+  <category>Dialog</category>
+  <info>https://snelson.us/2023/03/display-message-0-0-7-via-swiftdialog/</info>
+  <notes>Litton 2023</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Title</parameter4>
+    <parameter5>Message</parameter5>
+    <parameter6>Icon (Absolute Path; leave blank to display Self Service's icon)</parameter6>
+    <parameter7>Button 1 Text (i.e., Details)</parameter7>
+    <parameter8>Button 2 Text (i.e., Close)</parameter8>
+    <parameter9>Info Button Text (i.e., KB8675309)</parameter9>
+    <parameter10>Extra Flags (i.e., --iconsize 128 --timer 120 --blurscreen --quitoninfo --overlayicon /var/tmp/overlayicon.icns )</parameter10>
+    <parameter11>Action (i.e., jamfselfservice://content?entity=policy&amp;id=39&amp;action=view )</parameter11>
+  </parameters>
+  <os_requirements/>
+</script>

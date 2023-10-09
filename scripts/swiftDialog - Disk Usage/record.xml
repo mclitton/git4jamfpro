@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>swiftDialog - Disk Usage</name>
+  <category>No category assigned</category>
+  <info/>
+  <notes>https://snelson.us/2022/11/disk-usage-with-swiftdialog-0-0-2/</notes>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Script Log Location</parameter4>
+    <parameter5>Debug Mode [ true (default) | false ]</parameter5>
+    <parameter6>Expected Duration (in seconds)</parameter6>
+  </parameters>
+  <os_requirements/>
+</script>

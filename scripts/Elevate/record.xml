@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Elevate</name>
+  <category>Support</category>
+  <info>Script only works on Big Sur or greater
+</info>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Reverse Domain Name Notation (i.e., "xyz.techitout")</parameter4>
+    <parameter5>Elevation Duration (in minutes)</parameter5>
+  </parameters>
+  <os_requirements/>
+</script>

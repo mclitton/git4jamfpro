@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>swiftDialog - Prompt for Restart</name>
+  <category>Support</category>
+  <info>Goes straight to shutdown when button pressed</info>
+  <notes>M.Litton 5/2023
+- https://github.com/SecondSonConsulting/swiftDialogExamples/blob/main/promptForRestart.sh</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Nudge Post-Install Script</name>
+  <category>Nudge</category>
+  <info/>
+  <notes/>
+  <priority>After</priority>
+  <parameters>
+    <parameter4>Reverse Domain Name Notation (i.e., "org.churchofjesuschrist")</parameter4>
+    <parameter5>Configuration Files to Reset (i.e., None (blank) | All | JSON | LaunchAgent | LaunchDaemon)</parameter5>
+    <parameter6>Required macOS Big Sur Minimum Version (i.e., 11.7.1)</parameter6>
+    <parameter7>Required macOS Big SurInstallation Date &amp; Time (i.e., 2023-01-17T10:00:00Z)</parameter7>
+    <parameter8>Required macOS Monterey Minimum Version (i.e., 12.6.1)</parameter8>
+    <parameter9>Required macOS Monterey Installation Date &amp; Time (i.e., 2023-01-17T10:00:00Z)</parameter9>
+    <parameter10>Required macOS Ventura Minimum Version (i.e., 13.1)</parameter10>
+    <parameter11>Required macOS Ventura Installation Date &amp; Time (i.e., 2023-01-17T10:00:00Z)</parameter11>
+  </parameters>
+  <os_requirements/>
+</script>

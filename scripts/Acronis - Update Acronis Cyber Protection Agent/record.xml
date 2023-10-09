@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+  <name>Acronis - Update Acronis Cyber Protection Agent</name>
+  <category>No category assigned</category>
+  <info/>
+  <notes>This script is created and maintained by the Acronis integration. It is intended to be used by the integration to update an Acronis agent on remote computers.</notes>
+  <priority>After</priority>
+  <parameters/>
+  <os_requirements/>
+</script>
