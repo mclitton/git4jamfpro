@@ -10,6 +10,8 @@
 #
 # How To Use:  create a policy in your JSS with this script set to run once every day.
 
+#Test 123
+
 ## Global Variables and Stuff
 logPath='/usr/local/bin/uplog/'  ### <--- enter a path to where you store log files locally
 if [[ ! -d "$logPath" ]]; then
